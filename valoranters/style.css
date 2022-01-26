@@ -1,0 +1,65 @@
+.links
+{
+border-radius:10px;
+}
+.Links:hover
+{
+background-color:pink;
+} */
+.zoom
+{
+transition:transform .5s;
+}
+.zoom:hover
+{
+transform:scale(1.2);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+body {
+  background-image: url('Pictures/wallpaper valo.png');
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+}
+
+.btn
+{
+  border-radius:10px;
+  background-color: indianred;
+  display: inline-block;
+  font-size: 15px;
+  width: 10%;
+  padding: 10px 20px;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.btn:hover
+{
+  background-color:pink;
+}
+
+
+div.a {
+  font-size: 20px;
+}
+
+div.b {
+  font-size: 20px;
+}
+
+div.c {
+  font-size: 18px;
+}
+
+
+
